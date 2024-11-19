@@ -7,7 +7,7 @@
 <div align="center">
     <h2> 🐍 About Me </h2>
   <p> 👋 My name is Sophia Little </p>
-    <p>I'm a college student at Miami University majoring in Computer Science.</p>
+    <p>I'm a college student at Miami University majoring in Computer Science and Software Engineering.</p>
   <p> Lets Connect ! </p>
   <a href="https://www.linkedin.com/in/soplittle/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
